@@ -1,1 +1,2 @@
 this is file on feature branch
+added some lines to edit the file
